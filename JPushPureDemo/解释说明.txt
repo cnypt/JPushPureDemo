@@ -1,0 +1,11 @@
+﻿
+1. DLL文件夹中有测试和生产两个文件夹，因为IOS分生产环境跟测试环境
+                                      如果往生产环境推送，则引用Production文件夹中的DLL
+									  如果往测试环境推送，则引用Test文件夹中的DLL
+
+2. 项目cn.jpush.api 在 Push->mode->Options 的构造函数中  修改 apns_production 的值，可以设置为测试环境还是正式环境。
+   然后生成该项目后，在bin->Release 中找到cn.jpush.api.dll，然后给其他项目引用以后就可以使用了。
+
+3. 项目cn.jpush.api.example 是为发送推送[JPushApiExample.cs]、获取设备信息[DeviceApiExample.cs]以及定时推送[ScheduleApiExample.cs]用的。
+
+

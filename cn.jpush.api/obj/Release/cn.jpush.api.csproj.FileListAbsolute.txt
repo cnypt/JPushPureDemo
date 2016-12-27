@@ -1,0 +1,5 @@
+C:\Users\yhsy_yht\Downloads\jpush-api-csharp-client-3.2.42\jpush-api-csharp-client-3.2.4\cn.jpush.api\bin\Release\cn.jpush.api.dll
+C:\Users\yhsy_yht\Downloads\jpush-api-csharp-client-3.2.42\jpush-api-csharp-client-3.2.4\cn.jpush.api\bin\Release\cn.jpush.api.pdb
+C:\Users\yhsy_yht\Downloads\jpush-api-csharp-client-3.2.42\jpush-api-csharp-client-3.2.4\cn.jpush.api\bin\Release\Newtonsoft.Json.dll
+C:\Users\yhsy_yht\Downloads\jpush-api-csharp-client-3.2.42\jpush-api-csharp-client-3.2.4\cn.jpush.api\obj\Release\cn.jpush.api.dll
+C:\Users\yhsy_yht\Downloads\jpush-api-csharp-client-3.2.42\jpush-api-csharp-client-3.2.4\cn.jpush.api\obj\Release\cn.jpush.api.pdb

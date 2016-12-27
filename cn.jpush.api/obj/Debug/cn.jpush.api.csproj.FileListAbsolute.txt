@@ -1,0 +1,6 @@
+D:\DanMao\VS2015Learn\JPushPureDemo\cn.jpush.api\bin\Debug\cn.jpush.api.dll
+D:\DanMao\VS2015Learn\JPushPureDemo\cn.jpush.api\bin\Debug\cn.jpush.api.pdb
+D:\DanMao\VS2015Learn\JPushPureDemo\cn.jpush.api\bin\Debug\Newtonsoft.Json.dll
+D:\DanMao\VS2015Learn\JPushPureDemo\cn.jpush.api\obj\Debug\cn.jpush.api.csprojResolveAssemblyReference.cache
+D:\DanMao\VS2015Learn\JPushPureDemo\cn.jpush.api\obj\Debug\cn.jpush.api.dll
+D:\DanMao\VS2015Learn\JPushPureDemo\cn.jpush.api\obj\Debug\cn.jpush.api.pdb
